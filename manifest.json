@@ -1,0 +1,10 @@
+{
+  "lang": "en",
+  "name": "TriMap",
+  "description": "Real time TriMet Vehicle Locations.",
+  "short_name": "TriMap",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "theme_color": "aliceblue",
+  "background_color": "black"
+}
